@@ -185,13 +185,11 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
 <b>
 =========== • ✠ • ===========
 ▫️ Join ᴄʜᴀɴɴᴇʟ : @alpha_backup_channel
 ▫️ Join backup ɢʀᴏᴜᴘ : @Alpha_support_grp
 =========== • ✠ • ===========</b>"""
-
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
